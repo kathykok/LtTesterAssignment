@@ -13,6 +13,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 8. Blurb does not update until Save then page refresh
 9. File uploader does not accept .png images
 10. Photo is not saved
+11. HTML injection is possible via the Notes field
 
 Usability issues:
 1. Notes and Address fields not wide enough
