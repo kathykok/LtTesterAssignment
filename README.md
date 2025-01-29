@@ -2,6 +2,26 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
 
+## Bugs to find
+1. First name has proper validation that it's mandatory, but Last name does not
+2. Date in profile blurb is in Americal format whereas date controls are in NZ format
+3. Error thrown when field lengths are too long (> 30 for most, > 256 for Notes)
+4. Layout is not responsive
+5. Saving a null Hire Date shows the word "null" in the blurb
+6. Blurb does not update until Save then page refresh
+7. File uploader does not accept .png images
+8. Photo is not saved
+
+Usability issues:
+1. Notes and Address fields not wide enough
+2. Saving feedback missing
+3. Save button is not primary CTA coloured
+
+Candidate questions:
+1. Please write a regression test script for the Profile page in this web app (only this page will be considered when assessing your submission)
+2. Please note any bugs you find while testing the Profile page
+3. Please note any usability issues you have found while testing the Profile page
+
 ## Development server
 
 To start a local development server, run:
