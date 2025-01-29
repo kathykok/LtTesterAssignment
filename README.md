@@ -4,13 +4,14 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Bugs to find
 1. First name has proper validation that it's mandatory, but Last name does not
-2. Date in profile blurb is in Americal format whereas date controls are in NZ format
+2. Date in profile blurb is in Americal format whereas date pickers are in NZ format
 3. Error thrown when field lengths are too long (> 30 for most, > 256 for Notes)
 4. Layout is not responsive
 5. Saving a null Hire Date shows the word "null" in the blurb
-6. Blurb does not update until Save then page refresh
-7. File uploader does not accept .png images
-8. Photo is not saved
+6. Saving a null Hire Date causes the date picker to become unusable after refresh
+7. Blurb does not update until Save then page refresh
+8. File uploader does not accept .png images
+9. Photo is not saved
 
 Usability issues:
 1. Notes and Address fields not wide enough
