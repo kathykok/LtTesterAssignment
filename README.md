@@ -21,7 +21,7 @@ Usability issues:
 
 Candidate questions:
 1. Please write a regression test script for the Profile page in this web app (only this page will be considered when assessing your submission)
-2. Please note any bugs you find while testing the Profile page
+2. Please note any bugs you find while testing the Profile page. Please include any relevant information you find to help a developer diagnose the issue.
 3. Please note any usability issues you have found while testing the Profile page
 
 ## Development server
