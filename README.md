@@ -9,9 +9,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 4. Layout is not responsive
 5. Saving a null Hire Date shows the word "null" in the blurb
 6. Saving a null Hire Date causes the date picker to become unusable after refresh
-7. Blurb does not update until Save then page refresh
-8. File uploader does not accept .png images
-9. Photo is not saved
+7. There is no validation on the Date fields (can be in the future)
+8. Blurb does not update until Save then page refresh
+9. File uploader does not accept .png images
+10. Photo is not saved
 
 Usability issues:
 1. Notes and Address fields not wide enough
